@@ -10,6 +10,4 @@ What needs to be done?
 
 The fixed page can be found here: https://github.com/calcomsci/seo-fix-html-page
 
-There is a folder called “unfixed original files”. This contains the default files given
-There is another folder called “fixed files”. This contains the fixed version of the page
-You can download the folders containing both the fixed and unfixed HTML pages and compare them
+Please download all the files by clicking on the Code button in this repository page, or clonse the repository with your preferred Git software (I used Github Desktop)
